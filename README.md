@@ -4,4 +4,4 @@ Record keeping of my solutions to various practice problems from websites like C
 CF - Codeforces
 CC - CodeChef
 
-Files are named accordingly with the problem id.
+Files are named according to the above scheme followed by the respective problem id.
